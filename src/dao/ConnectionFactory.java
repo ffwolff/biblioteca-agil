@@ -16,7 +16,7 @@ import java.sql.SQLException;
  * @author Franco
  */
 public class ConnectionFactory {
-    
+    //DADOS DO BANCO
     private static final String DRIVER = "com.mysql.jdbc.Driver";
     private static final String URL = "jdbc:mysql://localhost:3306/biblioteca";
     private static final String USER = "root";
